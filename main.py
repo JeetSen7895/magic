@@ -21,40 +21,40 @@ async def on_ready():
     print("https://discord.gg/an8aCu")
     print("Everything's all ready to go~")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with LOVE YOU MOM DAD"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ Support"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Created by SAVAN"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Created by Rousseau "))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with My SAVAN PARAM"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Exclusive Number Store"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  LEGIT MIND"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Inferno"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  SAURABH SHANI DAGUR "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Baapko Bhej "))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Love"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Freefire "))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="With ALLEN TRIVIA "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="With Money Hunt world"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with TRIVIA EMPIRE"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Cobra Mp40"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with your Love😍!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with My Love Papai"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with SERIOUS MIND"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Freefire "))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=2,name="with love all member "))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="with Money Hunt members "))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  TRIVIA COMMUNITY"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Money Hunt "))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f'''{len(bot.guilds)} servers'''))
@@ -71,4 +71,4 @@ async def ping(ctx):
     # Send it to the user
     await ctx.send(latency)
     
-bot.run("NzIwOTU3MjAyMjUyNDMxNDA3.X3s0EQ.LNBqu4K-nUYrR6hoPd6kJE3uevc",bot=False)
+bot.run("NjAxNDMyODE4MjQwOTc4OTQ0.YDB6AQ.KoorMNTpIRUGVb10MPEEGvhAXmA",bot=False)
