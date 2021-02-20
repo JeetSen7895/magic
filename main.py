@@ -24,7 +24,7 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ Support"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Created by Rousseau "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Created by Rousseau"))
     	await asyncio.sleep(5)
 	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with Exclusive Number Store"))
@@ -33,10 +33,10 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with  Inferno"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Baapko Bhej "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  Baapko Bhej"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Freefire "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Freefire"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="With Money Hunt world"))
@@ -48,13 +48,13 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with My Love Papai"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Freefire "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Freefire"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=2,name="with Money Hunt members "))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="with Money Hunt members"))
     	await asyncio.sleep(5)
 	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Money Hunt "))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Money Hunt"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f'''{len(bot.guilds)} servers'''))
